@@ -1,7 +1,7 @@
 youtuber="baka prase"
 print(f'subscribe to {youtuber}')
 
-adj=input("adjective:")
+adj=input("adjective  :")
 verb1=input("verb1")
 verb2= input("verb2")
 famous=input("famous person")
