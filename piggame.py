@@ -47,4 +47,3 @@ max_score = max(players_scores)
 winning_idx = players_scores.index(max_score)
 print("Player", winning_idx+1 , "is the winner with the score of:",max_score)
 
-print("adsdsadsa")
